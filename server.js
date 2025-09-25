@@ -2,7 +2,7 @@
 const http = require('http');
 
 const hostname = '0.0.0.0'; // Listen on all interfaces
-const port = 8000;
+const port = 9000;
 
 const server = http.createServer((req, res) => {
       // New Health Check Logic
